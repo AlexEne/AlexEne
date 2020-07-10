@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![website badge](https://img.shields.io/badge/website-alexene.dev-darkorange?style=flat-square)](https://alexene.dev)
+[![twitter badge](https://img.shields.io/twitter/url?color=blue&label=_AlexEne_&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F_AlexEne_)](https://twitter.com/_AlexEne_)
+
+- 🔭 I’m currently working on __https://dwarf.world__
+- 🌱 I’m currently learning __WASM__
+- 💬 Ask me about __Rust 🦀 or Cats 🐱__
+- 😄 Pronouns: He/Him
